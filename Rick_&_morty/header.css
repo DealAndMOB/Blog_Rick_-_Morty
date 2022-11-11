@@ -1,0 +1,22 @@
+.jumbotron{
+    background: #000;
+}
+
+img{
+    width: 300px;
+}
+
+.nav-item{
+    font-size: 2rem;
+}
+
+.nav-link{
+    background-color: rgb(rgb(0, 255, 21), green, rgb(0, 255, 76));
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+
+
